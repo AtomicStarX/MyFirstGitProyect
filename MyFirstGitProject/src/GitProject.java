@@ -13,5 +13,9 @@ public class GitProject {
 	private void showMessage() {
 		System.out.println("Message from nepe");
 	}
+	
+	private void showMessage1() {
+		System.out.println("Message from nepelito");
+	}
 
 }
