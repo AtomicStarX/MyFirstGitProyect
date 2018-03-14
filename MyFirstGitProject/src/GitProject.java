@@ -14,4 +14,8 @@ public class GitProject {
 		System.out.println("wanna lick my nepe?");
 	}
 	
+	public void showMessage2() {
+		System.out.println("I like ur mom's titties");
+	}
+	
 }
