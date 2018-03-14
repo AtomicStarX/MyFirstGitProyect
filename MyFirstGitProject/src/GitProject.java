@@ -11,11 +11,7 @@ public class GitProject {
 	}
 	
 	private void showMessage() {
-		System.out.println("Message from nepe");
+		System.out.println("wanna lick my nepe?");
 	}
 	
-	private void showMessage1() {
-		System.out.println("Message from nepelito");
-	}
-
 }
